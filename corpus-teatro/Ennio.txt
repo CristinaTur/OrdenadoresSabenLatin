@@ -1,0 +1,471 @@
+	@Quintus Ennius	palliatae	verse
+	%PALLIATAE 	
+	%CAVPVNCVLA 	
+	&Non. 155M 	
+    huic est ánimus propitiábilis. 	1
+	%PANCRATIASTES 	
+	&Non. 513M 	
+Quis ést qui nostris fóribus tam protéruiter—? 	
+Cúm desubito me órat mulier lácrimansque ad genua áccidit. 	
+Quo núnc me ducis?—Úbi molarum strépitum audibis máximum. 	
+
+	@Quintus Ennius	praetextae	verse
+	%PRAETEXTAE 	
+	%AMBRACIA 	
+	&Non. 88M 	
+Ésse per gentés cluebat ómnium misérrimus. 	1
+Béne mones, tute ípse cunctas caúte: o uide fortém uirum! 	
+<Iám> agros audacés depopulant sérui dominorúm domi. 	
+. . et aequora salsa ueges ingentibus uentis. 	
+	%SABINAE 	
+	&Iul. Victor R.L.M. 402Halm 	
+Cum spólia generis détraxeritis, quám, <patres>, 	5
+Inscríptionem dábitis? 
+
+	@Quintus Ennius	tragoediae	verse
+	%TRAGOEDIAE 	
+	%ACHILLES 	
+	&Cic. Ver. 2.1.46 	
+ita magni fluctus eiciebantur. 	1
+    prolato aere astitit, 	
+    per ego deum sublimas subices 	
+umidas unde oritur imber sonitu saeuo et spiritu. 	
+†nam consilius† obuarant quibus tam concedit hic ordo. 	5
+quo nunc incerta re atque inorata gradum 	
+regredere conare? 	
+serua ciues, defende hostes cum potes defendere. 	
+†inta† mortales inter sese pugnant proeliant. 	
+summam tu tibi pro mala uita famam extolles 	10
+et pro bona paratam gloriam. 	
+male uolentes [enim] famam tollunt, bene uolentes gloriam. 	
+	%AIAX 	
+	&Var. L. 6.6 	
+lumen iubarne in caelo cerno? 	
+†a iax† misso sanguine tepido tullii efflantes uolant. 	
+qui rem cum Achiuis gesserunt statim. 	15
+	%ALCMEO 	
+	&Cic. de Orat. 3.217 	
+multis sum modis circumuentus, morbo exilio atque inopia. 	
+tum pauor sapientiam omnem exanimato expectorat. 	
+†alter† terribilem minatur uitae cruciatum et necem; 	
+quae nemo est tam firmo ingenio et tanta confidentia 	
+quin refugiat timido sanguen atque exalbescat metu. 	20
+sed mihi neutiquam cor consentit cum oculorum aspectu. 	
+unde haec flamma oritur? 	
+†incede incede† adsunt; me expetunt. 	
+fer mi auxilium, pestem abige a me, 	
+flammiferam hanc uim quae me excruciat. 	25
+caeruleae incinctae igni incedunt, 	
+circumstant cum ardentibus taedis. 	
+intendit crinitus Apollo 	
+arcum auratum luna innixus; 	
+Diana facem iacit a laeua. 	30
+    factum est iam diu. 	
+	%ALEXANDER 	
+	&Cic. Div. 1.66 	
+sed quid oculis rapere uisa est derepente ardentibus? 	
+ubi illa paulo ante sapiens †uirginali† modestia? 	
+mater, optumatum multo mulier melior mulierum, 	
+missa sum superstitiosis hariolationibus; 	35
+†neque† me Apollo fatis fandis dementem inuitam ciet. 	
+uirgines uereor aequalis, patris mei meum factum pudet, 	
+optumi uiri. mea mater, tui me miseret, mei piget. 	
+optumam progeniem Priamo peperisti extra me. hoc dolet: 	
+men obesse, illos prodesse, me obstare, illos obsequi. 	40
+adest adest fax obuoluta sanguine atque incendio. 	
+multos annos latuit. ciues ferte opem et restinguite. 	
+iamque mari magno classis cita 	
+texitur. exitium examen rapit. 	
+adueniet. fera ueliuolantibus 	45
+nauibus compleuit manus litora. 	
+eheu uidete: 	
+iudicauit inclitum iudicium inter deas tris aliquis, 	
+quo iudicio Lacedaemonia mulier Furiarum una adueniet. 	
+  mater grauida parere se ardentem facem 	50
+uisa est in somnis Hecuba. quo facto pater 	
+rex ipse Priamus somnio mentis metu 	
+perculsus curis sumptus suspirantibus 	
+exsacrificabat hostiis balantibus. 	
+tum coniecturam postulat pacem petens, 	55
+ut se edoceret obsecrans Apollinem 	
+quo sese uertant tantae sortes somnium. 	
+ibi ex oraclo uoce diuina edidit 	
+Apollo puerum primus Priamo qui foret 	
+postilla natus temperaret tollere; 	60
+eum esse exitium Troiae, pestem Pergamo. 	
+iam dudum ab ludis animus atque aures auent 	
+auide exspectantes nuntium. 	
+quapropter Parim pastores nunc Alexandrum uocant. 	
+†amidio† purus pụṭ<us> 	65
+hominem appellat. 'quid †lasciui† stolide?' non intellegit. 	
+uolans de caelo cum corona et taeniis. 	
+multi alii aduentant, paupertas quorum obscurat nomina. 	
+o lux Troiae, germane Hector, 	
+quid ita cum tuo lacerato corpore miser? 	70
+aut qui te sic respectantibus tractauere nobis? 	
+nam maximo saltu superauit grauidus armatis equus 	
+qui suo partu ardua perdat Pergama. 	
+	%ANDROMACHA 	
+	&Cic. Sest. 120 	
+    qui rem publicam certo animo adiuuerit 	
+statuerit, steterit cum Achiuis— 	75
+    re dubia 	
+haut dubitarit uitam offerre nec capiti pepercerit. 	
+uidi, uidere quod me passa aegerrume, 	
+Hectorem curru quadriiugo raptarier. 	
+ex opibus summis opis egens Hector tuae. 	80
+quid petam praesidi aut exequar? quoue nunc 	
+auxilio exili aut fugae freta sim? 	
+arce et urbe orba sum. quo accedam? quo applicem? 	
+cui nec arae patriae domi stant, fractae et disiectae iacent, 	
+fana flamma deflagrata, tosti †alii† stant parietes, 	85
+deformati atque abiete crispa. 	
+o pater, o patria, o Priami domus, 	
+saeptum altisono cardine templum. 	
+uidi ego te adstante ope barbarica, 	
+tectis caelatis laqueatis, 	90
+auro ebore instructam regifice. 	
+haec omnia uidi inflammari, 	
+Priamo ui uitam euitari, 	
+Iouis aram sanguine turpari. 	
+    philosophandum est paucis; nam omnino haud placet. 	95
+    quae caua caeli 	
+signitenentibus conficis bigis. 	
+Acherusia templa alta Orci saluete infera. 	
+Andromachae nomen qui indidit recte indidit. 	
+Hectoris natum de Troiano muro iactari. 	100
+di 	
+†quid fit seditio tabesne an numerus† augificat †suos†. 	
+quantis cum aerumnis illum exanclaui diem. 	
+    annos multos longinque a domo 	
+bellum gerentes summum summa industria. 	105
+nam ubi introducta est puerumque ut lauerent locant 	
+in clipeo. 	
+nam neque irati neque blandi quicquam sincere sonunt. 	
+    sed quasi aut ferrum aut lapis 	
+durat rarenter gemitum †conatur trabem† 	110
+rapit ex alto naues ueliuolas. 	
+	%ANDROMEDA 	
+	&Festus 258M 	
+liberum quaesendum causa familiae matrem tuae. 	
+scrupeo inuestita saxo atque ostreis †quam excrabrent†. 	
+circum sese uruat ad pedes a terra quadringentos †caput†. 	
+corpus contemplatur unde corporaret uulnere. 	115
+rursus prorsus reciprocat fluctus †feram†. 	
+    alia fluctus differt dissupat 	
+uisceratim membra; maria salsa spumant sanguine. 	
+filiis propter te obiecta sum innocens Nerei. 	
+	%ATHAMAS 	
+	&Char. GL 1.314K 	
+his erat in ore Bromius, his Bacchus pater, 	120
+illis Lyaeus uitis inuentor sacrae. 	
+tum pariter †euhan euhium† 	
+ignotus iuuenum coetus alterna uice 	
+inibat alacris Bacchico insultans modo. 	
+	%CRESPHONTES 	
+	&Rhet. Her. 2.38 	
+iniuria abs te adficior indigna pater. 	125
+nam si inprobum esse Cresphontem existimas, 	
+cur me huic locabas nuptiis? sin est probus, 	
+cur talem inuitam inuitum cogis linquere? 	
+nulla te indigna nata adficio iniuria. 	
+si probus est, collocaui. sin est inprobus, 	130
+diuortio te liberabo incommodis. 	
+ducit me uxorem liberorum sibi quaesendum gratia. 	
+audi atque auditis hostimentum adiungito. 	
+ego meae cum uitae parcam, letum inimico deprecer. 	
+    †opie† 	135
+eam secum aduocant, eunt ad fontem, nitidant corpora. 	
+an inter se sortiunt urbem atque agros. 	
+neque terram inicere neque cruenta conuestire corpora 	
+mihi licuit neque miserae lauere lacrimae salsum sanguinem. 	
+	%ERECTHEVS 	
+	&Festus 162M 	
+lapideo sunt corde multi quos non miseret neminis. 	140
+†qui† nunc aerumna mea libertatem paro, 	
+quibus seruitutem mea miseria deprecor. 	
+arma †arrigunt† horrescunt tela. 	
+	%EVMENIDES 	
+	&Non. 292M 	
+nisi patrem materno sanguine exanclando ulciscerem. 	
+    dico uicisse Orestem. uos ab hoc facessite. 	145
+tacere opino esse optumum et pro uiribus 	
+sapere, atque fabulari tute noueris. 	
+id ego aecum ac iustum fecisse expedibo atque eloquar. 	
+	%HECTORIS LYTRA 	
+	&Festus 270M 	
+quae mea comminus machaera atque hasta †hospius manu†. 	
+    at ego omnipotens 	150
+ted exposco ut hoc consilium Achiuis auxilio fuat. 	
+    inferum uastos specus. 	
+Hector †ei summa† armatos educit foras 	
+castrisque castra ultro iam ferre occupat. 	
+melius est uirtute ius: nam saepe uirtutem mali 	155
+nanciscuntur; ius atque aecum se a malis spernit procul. 	
+†ducet quadrupedum iugo inuitam† 	
+doma infrena et iunge ualida quorum tenacia infrenari minis. 	
+constitit credo Scamander, arbores uento uacant. 	
+qui cupiant dare arma Achilli †ut ipse† cunctent. 	160
+    †ser uos et uostrum† 	
+imperium et fidem Myrmidonum, uigiles, conmiserescite. 	
+quid hoc hic clamoris, quid tumulti est? nomen qui usurpat meum? 	
+quid in castris strepiti est? 	
+aes sonit, franguntur hastae, terra sudat sanguine. 	165
+saeuiter fortuna ferro cernunt de uictoria. 	
+ecce autem caligo oborta est, omnem prospectum abstulit. 	
+derepente contulit sese in pedes. 	
+sublime iter ut quadrupedantes flammam halitantes. 	
+nos quiescere aequum est; nomus ambo Vlixem. 	170
+	%HECVBA 	
+	&Var. L. 7.6 	
+o magna templa caelitum commixta stellis splendidis. 	
+haec tu etsi peruerse dices, facile Achiuos flexeris: 	
+nam cum opulenti locuntur pariter atque ignobiles, 	
+eadem dicta eademque oratio aequa non aeque ualet. 	
+†uide hinc meae inquam† lacrumae guttatim cadunt. 	175
+Iuppiter tibi summe tandem male re gesta gratulor. 	
+set numquam scripstis quis parentem aut hospitem 	
+necasset †quos quis† cruciatu perbiteret. 	
+    undantem salum. 	
+heu me miseram. interii. pergunt lauere sanguen sanguine. 	180
+quae tibi in concubio uerecunde et modice morem gerit. 	
+miserete †manus† date ferrum qui me anima priuem. 	
+senex sum: utinam mortem obpetam priusquam euenat 	
+quod in pauperie mea senex grauiter gemam. 	
+	%IPHIGENIA 	
+	&Cic. Rep. 1.30 	
+astrologorum signa in caelo quid sit obseruationis? 	185
+cum Capra aut Nepa aut exoritur nomen aliquod beluarum, 	
+quod est ante pedes nemo spectat, caeli scrutantur plagas. 	
+quid noctis uidetur? in altisono 	
+caeli clipeo temo superat 	
+<plaustri> stellas sublimum agens 	190
+etiam atque etiam noctis iter. 	
+    Acherontem obibo ubi Mortis thesauri obiacent. 	
+procede: gradum proferre pedum, 	
+nitere, cessas o fide? 	
+otio qui nescit uti 	195
+plus negoti habet quam cum est negotium in negotio. 	
+nam cui quod agat institutum est †in illis† negotium, 	
+id agit, <id> studet, ibi mentem atque animum delectat suum; 	
+†otioso initio† animus nescit quid uelit. 	
+hoc idem est: em neque domi nunc nos nec militiae sumus. 	200
+imus huc, hinc illuc; cum illuc uentum est, ire illinc lubet. 	
+incerte errat animus, praeter propter uitam uiuitur. 	
+Menelaus me obiurgat; id meis rebus regimen restitat. 	
+ego proiector quod tu peccas. tu †delinquas† ego arguor. 	
+pro malefactis Helena redeat, uirgo pereat innocens? 	205
+tua reconcilietur uxor, mea necetur filia? 	
+quae nunc abs te uiduae et uastae uirgines sunt. 	
+	%MEDEA EXVL; MEDEA 	
+	&Rhet. Her. 2.34 	
+utinam ne in nemore Pelio securibus 	
+caesa accidisset abiegna ad terram trabes, 	
+neue inde nauis inchoandi exordium 	210
+cepisset, quae nunc nominatur nomine 	
+Argo, quia Argiui in ea delecti uiri 	
+uecti petebant pellem inauratam arietis 	
+Colchis, imperio regis Peliae, per dolum. 	
+nam numquam era errans mea domo efferret pedem 	215
+Medea animo aegro amore saeuo saucia. 	
+quo nunc me uortam? quod iter incipiam ingredi? 	
+domum paternamne? anne ad Peliae filias? 	
+multi suam rem bene gessere et publicam patria procul; 	
+multi qui domi aetatem agerent propterea sunt improbati. 	220
+qui ipse sibi sapiens prodesse non quit nequiquam sapit. 	
+cupido cepit miseram nunc me proloqui 	
+caelo atque terrae Medeai miserias. 	
+tu me amoris magis quam honoris seruauisti gratia. 	
+nequaquam istuc istac ibit; magna inest certatio. 	225
+nam ut ego illi supplicarem tanta blandiloquentia 	
+ni ob rem— 	
+qui uolt quod uolt ita dat <semper> se res ut operam dabit. 	
+ille trauersa mente mi hodie tradidit repagula 	
+quibus ego iram omnem recludam atque illi perniciem dabo 	230
+mihi maerores, illi luctum, exitium illi, exilium mihi. 	
+    nam ter sub armis malim uitam cernere 	
+quam semel modo parere. 	
+Iuppiter tuque adeo summe Sol qui res omnis inspicis 	
+quique tuo lumine mare terram caelum contines 	235
+inspice hoc facinus prius quam fit. prohibessis scelus. 	
+antiqua erilis fida custos corporis, 	
+quid sic te extra aedis exanimatam eliminat? 	
+asta atque Athenas anticum opulentum oppidum 	
+contempla et templum Cereris ad laeuam aspice. 	240
+saluete optima corpora. 	
+cette manus uestras measque accipite. 	
+sol qui candentem in caelo sublimat facem. 	
+utinam ne umquam †mede† cordis cupido corde pedem extulisses 	
+    fructus uerborum aures aucupant. 	245
+	%MELANIPPA 	
+	&Non. 170M 	
+regnumque nostrum ut sospitent superstitentque. 	
+mi ausculta nate: pueros cremari iube. 	
+†certo hic est nulla† quin monstrum siet. 	
+hoc ego tibi dico et coniectura auguro. 	
+lumine sic tremulo terra et caua caerula candent. 	250
+    cum saxum sciciderit 	
+	%NEMEA 	
+	&Non. 183M 	
+teneor consaepta, undique uenor. 	
+pecudi dare uiuam marito. 	
+	%PHOENIX 	
+	&Gel. N.A. 6.17.10 	
+sed uirum uera uirtute uiuere †animatum adiecit† 	
+fortiterque †innoxium uocare† aduersum aduersarios. 	255
+ea libertas est qui pectus purum et firmum gestitat; 	
+†aliae† res obnoxiosae nocte in obscura latent. 	
+quam tibi ex ore orationem duriter dictis dedit. 	
+†stultus est qui cupida† cupiens cupienter cupit. 	
+†tum tu isti credere† atque exerce linguam ut argutarier possis. 	260
+plus miser sim si scelestum faxim quod dicam fore. 	
+saeuiter suspicionem ferre falsam futtilum est. 	
+ut quod factum est futtile amici uos feratis fortiter. 	
+ibi tum derepente ex alto in altum despexit mare. 	
+	%TELAMO 	
+	&Cic. N.D. 3.79 	
+nam si curent, bene bonis sit, male malis; quod nunc abest. 	265
+aut inertes aut insani aut quibus egestas imperat, 	
+qui sibi semitam non sapiunt alteri monstrant uiam; 	
+quibus diuitias pollicentur, ab iis drachumam ipsi petunt. 	
+de his diuitiis sibi deducant drachumam, reddant cetera. 	
+ego deum genus esse semper dixi et dicam caelitum, 	270
+sed eos non curare opinor quid agat humanum genus. 	
+scibas natum ingenuum Aiacem cui tu obsidionem paras. 	
+nam ita mihi Telamonis patris atque Aeaci et proaui Iouis 	
+†gratia ea est† atque hoc lumen candidum claret mihi. 	
+deum me sentit facere pietas, ciuium porcet pudor. 	275
+strata terrae lauere lacrimis uestem squalam et sordidam. 	
+eandem me in suspicionem sceleris partiuit pater. 	
+more antiquo audibo atque auris tibi contra utendas dabo. 	
+abnuebunt 	
+	%TELEPHVS 	
+	&Festus 145M 	
+palam muttire plebeio piaculum est. 	280
+†cedo et caueo cum uestitus† squalida saeptus stola. 	
+regnum reliqui saeptus mendici stola. 	
+    uerum quorum liberi leto dati 	
+sunt in bello non lubenter haec enodari audiunt. 	
+te ipsum hoc oportet profiteri et proloqui 	285
+aduorsum †illam mihi† 	
+qui illum di deaeque magno mactassint malo. 	
+sed ciuitatem uideo Argiuum incendere. 	
+deumque de consilio hoc itiner credo conatum modo. 	
+	%THYESTES 	
+	&Cic. de Orat. 3.164 	
+quidnam est obsecro quod te adiri abnutas? 	290
+Tantalo prognatus Pelope natus qui quondam a socru 	
+Oenomao rege Hippodameam raptis nanctus nuptiis. 	
+nolite hospites ad me adire. ilico istic. 	
+ne contagio mea bonis umbraue obsit. 	
+tanta uis sceleris in corpore haeret. 	295
+ipse summis saxis fixus asperis, euisceratus, 	
+latere pendens, saxa spargens tabo sanie et sanguine atro. 	
+neque sepulcrum quo recipiat habeat, portum corporis, 	
+ubi remissa humana uita corpus requiescat malis. 	
+quemnam te esse dicam qui tarda in senectute— 	300
+aspice hoc sublime candens quem uocant omnes Iouem. 	
+eheu mea fortuna ut omnia in me conglomeras mala. 	
+set me Apollo ipse delectat ductat Delphicus. 	
+sin flaccebunt condiciones repudiato et reddito. 	
+sed sonitus auris meas pedum pulsu increpat. 	305
+impetrem facile ab animo ut cernat †uitalem babium† 	
+quam mihi maxime hic hodie contigerit malum. 	
+ibi quid agat secum cogitat parat putat. 	
+	%INCERTA 	
+	&Rhet. Her. 2.39 	
+eho tu: di quibus est potestas motus superum atque inferum 	
+pacem inter sese conciliant, conferunt concordiam. 	310
+quicquam quisquam †quemquam† quemque quisque conueniat neget. 	
+quis ibi non est uulneratus ferro Phrygio? 	
+homo qui erranti comiter monstrat uiam 	
+quasi lumen de suo lumine accendat facit. 	
+nihilo minus ipsi lucet cum illi accenderit. 	315
+    quos ego mea ope ex 	
+incertis certos compotesque consili 	
+dimitto ut ne res temere tractent turbidas. 	
+    caeli ingentes fornices. 	
+nulla sancta societas nec fides regni est, 	320
+neque tuum umquam in gremium extollas liberorum ex te genus. 	
+o Patricoles ad uos adueniens auxilium et uestras manus 	
+peto priusquam oppeto malam pestem mandatam hostili manu— 	
+neque sanguis ullo potis est pacto profluens consistere— 	
+si qui sapientia magis uestra mors deuitari potest; 	325
+namque Aesculapi liberorum saucii opplent porticus. 	
+non potest accedi. 	
+    qui alteri exitium parat, 	
+eum scire oportet sibi paratam pestem ut participet parem. 	
+eloquere eloquere res Argiuum proelio ut se sustinet. 	330
+non potest ecfari tantum dictis quantum factis suppetit 	
+laboris. 	
+ubi fortuna Hectoris nostram acrem aciem inclinatam— 	
+    ui patefecerunt Bruges, 	
+nimium boni est cui nihil est mali. 	335
+animus aeger semper errat; 	
+neque pati neque perpeti potest, cupere numquam desinit. 	
+    pol mihi fortuna magis nunc defit quam genus. 	
+namque regnum suppetebat mi, ut scias quanto e loco, 	
+quantis opibus, quibus de rebus lapsa fortuna accidat. 	340
+flagiti principium est nudare inter ciuis corpora. 	
+†cui† quod in me est exsecrabor hoc quod lucet quicquid est. 	
+qui sui quaestus causa fictas suscitant sententias, 	
+    fauent faucibus russis 	
+cantu plausuque premunt alas. 	345
+aliquot somnia uera sed omnia non necesse est. 	
+Salmacida spolia sine sudore et sanguine. 	
+quem metuunt oderunt; quem quisque odit periisse expetit. 	
+benefacta male locata malefacta arbitror. 	
+o Fides alma apta pinnis et ius iurandum Iouis. 	350
+amicus certus in re incerta cernitur. 	
+o terra Thraeca ubi Liberi fanum inclutum 	
+Maro locaui. 	
+    cubitis pinsibant humum. 	
+terris gentis omnis peperit et resumit denuo. 	355
+istic est is Iuppiter quem dico, quem Graeci uocant 	
+aerem, qui uentus est et nubes, imber postea, 	
+atque ex imbre frigus, uentus post fit, aer denuo. 	
+†haec propter† Iuppiter sunt ista quae dico tibi. 	
+†qua† mortalis atque urbes beluasque omnis iuuat. 	360
+    tueor te senex? pro Iuppiter! 	
+extemplo acceptum me necato et filium. 	
+ut tibi Titanis Triuia dederit stirpem liberum. 	
+Areopagitae quid dedere †quam pudam† 	
+quaeque in corpore caua caeruleo 	365
+caeli cortina receptat. 	
+quin inde inuitis sumpserint perduellibus. 	
+Thelis illi mater. 	
+si uoles aduortere animum comiter monstrabitur 	
+hehae! ipse clipeus cecidit. 	370
+heu mea puella †spe† quidem id succenset tibi. 	
+uocibus concide †facimus et† obrutus. 	
+mulierem: quid potius dicam aut uerius quam mulierem? 	
+    uiuam an moriar nulla in me est metus. 	
+illic est nugator nihili non nauci homo. 	375
+Hector qui haud cessat obsidionem obducere. 	
+parentem et pa * sospitem. 	
+topper quam nemo melius scit. 	
+    c̣a aspera saxa tesca tuor 	
+ille meae tam potis pacis potiri. 	380
+is habet coronam uitulans uictoria. 	
+omnes dant consilium uanum atque ad uoluptatem omnia. 	
+peruince pertinaci peruicacia. 	
+    angue uillosi canis. 	
+labat, labuntur saxa, caementae cadunt. 	385
+et quis illaec est quae lugubri succincta est stola? 	
+crassa puluis oritur, omnem peruolat caeli fretum. 	
+plebes in hoc regi antestat: loco licet 	
+lacrimare plebi, regi honeste non licet. 	
+ad eum aditauere. 	390
+†an aliquid quod dono illi morare sed accipite† 	
+eos reduci quam relinqui, deuehi quam deseri 	
+malui. 	
+ager oppletus imbrium fremitu. 	
+    festiuum festinant diem. 	395
+    induta fuit saeua stola. 	
+    ut uos nostri liberi 	
+defendant, pro uostra uita morti occumbant obuiam. 	
+    ferro foedati iacent. 	
+inprimitque genae genam. 	400
+    deos aeui integros 	
+uersat mucronem. 	
+
